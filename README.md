@@ -3,7 +3,7 @@
 ### Stonehill College, MA, USA
 
 - Poster abstract in [Markdown](https://raw.github.com/yoavram/GRC2013/master/abstract.md) or [PDF](https://github.com/yoavram/GRC2013/blob/master/abstract.pdf?raw=true) format.
-- Poster in [PowerPoint]((https://github.com/yoavram/GRC2013/blob/master/poster.pptx?raw=true) or [PDF]((https://github.com/yoavram/GRC2013/blob/master/poster.pdf?raw=true) format.
+- Poster in [PowerPoint](https://github.com/yoavram/GRC2013/blob/master/poster.pptx?raw=true) or [PDF](https://github.com/yoavram/GRC2013/blob/master/poster.pdf?raw=true) format.
 
 ### License
 
